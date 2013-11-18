@@ -1,3 +1,8 @@
 This is my test!  
+<<<<<<< HEAD
 I've added more stuff
 I'm seriously wasting my time adding more stuff now!
+=======
+I've added more stuff.
+Now LabnehJr is adding more stuff again.
+>>>>>>> 9e7d2b9c9138d29a2f4a7c8f9771aae2f5b71fcd
